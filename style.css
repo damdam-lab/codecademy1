@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: moccasin;
+}
+
+table {
+    border-style: solid;
+    border-color: pink;
+    border-width: 3px;
+    width: 650px;
+    margin:  0 auto;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Varela Round', sans-serif;
+}
+
+h2 {
+    text-align: center;
+    color: orchid;
+    font-family: 'Varela Round', sans-serif;
+}
+
+.elements {
+    font-family: 'Space Mono', monospace;
+    background-color: mintcream;
+}
+
+thead {
+    background-color: thistle;
+    font-family: 'Varela Round', sans-serif;
+}
+
+td {
+    font-family: 'Varela Round', sans-serif;
+    border-top: 1px dotted pink;
+}
